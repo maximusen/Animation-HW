@@ -24,6 +24,7 @@
 }
 
 .cursor-page-title { 
+
   width: 100%;  
     color: #514e4e;
     padding: 3% 7% ;
@@ -53,6 +54,7 @@
 }
 
 .cursor-title {
+    background: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 700;
@@ -64,6 +66,7 @@
 }
 
 .cursor-text {
+    background: #ffffff;
     color: #514e4e;
     font-size: 17px;
     font-weight: 300;
@@ -72,6 +75,7 @@
 }
 
 .cursor-number {
+    background: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 700;
